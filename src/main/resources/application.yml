@@ -1,0 +1,7 @@
+rocketmq:
+  access-key:
+  secret-key:
+  name-srv-addr:
+  topic:
+  group-id:
+  tag:
